@@ -101,3 +101,7 @@ Fontes identificadas e em análise:
 * Próxima reunião marcada para revisar metodologia e fontes de dados.
 
 ---
+
+### **Referências**
+
+Tabata - [Transcrição da Reunião 04/11/2025 Google Meet](https://www.notion.so/Reuni-o-8fc8deffcf1949f59a35018dcfae5585?source=copy_link)
