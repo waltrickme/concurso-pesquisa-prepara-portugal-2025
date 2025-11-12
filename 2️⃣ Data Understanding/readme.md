@@ -1,7 +1,5 @@
 ### **Data Understanding (Entendimento dos Dados) - Primeira Exploração**
 
-Agora, como PO e Scrum Master, vou levantar os **datasets oficiais portugueses** que possivelmente responderão a essas perguntas. Este é o início da nossa "caça aos dados".
-
 **Fontes Primárias de Dados Sugeridas:**
 
 1.  **INE (Instituto Nacional de Estatística):**
@@ -12,7 +10,7 @@ Agora, como PO e Scrum Master, vou levantar os **datasets oficiais portugueses**
 2.  **Pordata:** Funciona como uma interface amigável para muitos dos dados do INE. É excelente para obter séries históricas consolidadas e fazer comparações iniciais. A vantagem é a facilidade de exportação.
 
 3.  **AIMA (Agência para a Integração, Migrações e Asilo) - ex-SEF:** 
-    *   **Relatórios de Imigração, Fronteiras e Asilo (RIFA):** São a fonte mais autorizada para dados administrativos sobre imigração. Trazem informações cruciais sobre **novas autorizações de residência**, muitas vezes com breakdown por **motivo** (ex: trabalho altamente qualificado, trabalho não qualificado, estudo, reagrupamento familiar). Isso é **OURO** para o seu tema.
+    *   **Relatórios de Imigração, Fronteiras e Asilo (RIFA):** São a fonte mais autorizada para dados administrativos sobre imigração. Trazem informações cruciais sobre **novas autorizações de residência**, muitas vezes com breakdown por **motivo** (ex: trabalho altamente qualificado, trabalho não qualificado, estudo, reagrupamento familiar).
 
 **Mapeamento Inicial de Dados vs. Perguntas:**
 
@@ -50,11 +48,6 @@ Sugiro que nosso **Sprint 1** tenha como objetivo a **exploração e confirmaç�
 
 ## **Relatório de Progresso – Fase de Data Understanding (CRISP-DM)**
 
-### **Resumo da Etapa Anterior**
-
-A equipe concluiu com êxito a fase de **Business Understanding**, consolidando um tema sólido e perguntas de pesquisa bem definidas. O levantamento inicial de fontes, conduzido pelo Scrum Master, destacou o valor das bases de dados do **BPstat** e do **Portal Europeu de Dados**, estabelecendo uma base consistente para a próxima etapa.
-
----
 
 ### **Objetivo da Fase Atual**
 
