@@ -27,3 +27,13 @@
 | INE | [INE Censos 2021 Plataforma de Divulgação](https://censos.ine.pt/xportal/xmain?xpgid=censos21_dados_finais&xpid=CENSOS21&xlang=pt) | 15/11/2023 | Sim | População, Famílias, Habitação | - [População](https://censos.ine.pt/xportal/xmain?xpgid=censos21_populacao&xpid=CENSOS21)<br>- [Agregados e Núcleos Familiares](https://censos.ine.pt/xportal/xmain?xpgid=censos21_agregados&xpid=CENSOS21)<br>- [Habitação](https://censos.ine.pt/xportal/xmain?xpgid=censos21_habitacao&xpid=CENSOS21)<br>Informações em formato de DashBoard e Gráficos |
 ---
 
+### Tabela [DU-01-B] Exploração e documentação dos relatórios do AIMA e SEF 
+
+| Fonte  | URL | Data de acesso | Dataset Encontrado | Váriaveis relevantes | Observações | 
+| ------------- |:-------------:|:-------------:|:-------------:|:-------------:|:-------------:|
+| SEF (RIFA2020)|[SEFSTAT](https://sefstat.sef.pt/forms/relatorios.aspx)|14/11/2025|-|-|**-Informações em formatos de Gráficos e Tabelas**; Estrangeiros residentes; Concessões de novos títulos; Principais motivos para residência; População estrangeira potencialmente ativa; Concessão de títulos por motivo;|
+| SEF (RIFA_2021)|[SEFSTAT](https://sefstat.sef.pt/forms/relatorios.aspx)|14/11/2025|-|-|**-Informações em formatos de Gráficos e Tabelas**; Estrangeiros residentes; Concessões de novos títulos; Principais motivos para residência; População estrangeira potencialmente ativa; Concessão de títulos por motivo;|
+| SEF (RIFA_2022)|[SEFSTAT](https://sefstat.sef.pt/forms/relatorios.aspx)|14/11/2025|-|-|**-Informações em formatos de Gráficos e Tabelas**; Estrangeiros residentes; Concessões de novos títulos; Principais motivos para residência; População estrangeira potencialmente ativa; Concessão de títulos por motivo;|
+| AIMA (RMA_2023)|[AIMA](https://aima.gov.pt/pt/a-aima/relatorios-de-migracoes-e-asilo)|14/11/2025|-|-|**-Informações em formatos de Gráficos e Tabelas**; Estrangeiros residentes; Concessões de novos títulos; Principais motivos para residência; População estrangeira potencialmente ativa; Concessão de títulos por motivo;|
+| AIMA (RMA_2024)|[AIMA](https://aima.gov.pt/pt/a-aima/relatorios-de-migracoes-e-asilo)|14/11/2025|-|-|**-Informações em formatos de Gráficos e Tabelas**; <br>***-Dados sobre evolução da população residente diferentes dos dados de relatórios anteriores;***<br> Estrangeiros residentes; Concessões de novos títulos; Principais motivos para residência; População estrangeira potencialmente ativa; Concessão de títulos por motivo; Atividade Profissional por motivo;|
+ 
